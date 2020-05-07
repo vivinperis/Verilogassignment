@@ -1,0 +1,1 @@
+Verilog assignment codes as part of Advanced Computer Architecture course
